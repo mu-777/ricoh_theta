@@ -3,5 +3,6 @@ ROS node for ricoh theta
 
 test
 
+test2
 
 
