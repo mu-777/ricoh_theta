@@ -1,0 +1,15 @@
+<library path="src">
+  <class name="ThetaView" type="theta_view.ThetaView" base_class_type="rqt_gui_py::Plugin">
+    <description>
+    </description>
+    <qtgui>
+      <group>
+        <label>Visualization</label>
+        <icon type="theme">folder</icon>
+      </group>
+      <label>Theta Viewer</label>
+      <icon type="theme">view-fullscreen</icon>
+      <statustip>The viewer for ricoh-theta sphere image.</statustip>
+    </qtgui>
+  </class>
+</library>
