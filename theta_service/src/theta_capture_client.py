@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = 'matsunolab'
+__author__ = 'RyosukeMurata'
 
 import rospy
 import time
@@ -8,6 +8,7 @@ from theta_service.srv import *
 
 GRAB_CURRENT_IMAGE = 1
 FILENAME = 'test.jpg'
+
 
 # -------------------------------------------------------------------------
 if __name__ == "__main__":
