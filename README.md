@@ -1,6 +1,10 @@
 # ricoh_theta
 ROS node for ricoh theta v0.1
 
+**CAUTION**  
+This ROS package is not official  
+I have nothing to do with Ricoh Company, Ltd.
+
 ## Overview
 ![theta viewer](http://uploda.cc/img/img5508c9546bd7f.png)
 
