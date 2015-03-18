@@ -9,7 +9,8 @@ testbranch
 
 testbranch
 
-'''
-test
+'''python
+def test()*
+  a=1
 '''
 
