@@ -4,7 +4,7 @@ ROS node for ricoh theta v0.1
 ## Overview
 ![theta viewer](http://uploda.cc/img/img5508c9546bd7f.png)
 
-## How to use
+## Quick start
 1. Connect your PC to your theta via wifi
 
 2. ```rosrun theta_service theta_capture_server.py```
