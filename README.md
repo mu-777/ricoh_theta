@@ -1,16 +1,25 @@
 # ricoh_theta
 ROS node for ricoh theta
 
-test
+## Overview
+![theta viewer](http://uploda.cc/img/img5508c9546bd7f.png)
 
-test2
+## How to use
+1. Connect your PC to your theta via wifi
 
-testbranch
+2. ```rosrun theta_service theta_capture_server.py```
 
-testbranch
+3. ```rqt --standalone rqt_theta_viewer``` @ another terminal  
+or ```rqt``` and Plugins -> Visualization -> Theta Viewer
 
-```python
-def test()*
-  a=1
-```
+4. Click shutter and wait for seconds  
+(your rqt window may be black out but it is temporal, just wait)
+
+5. Now you can see your theta image :)
+
+
+
+
+
+
 
