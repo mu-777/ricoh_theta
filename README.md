@@ -1,5 +1,5 @@
 # ricoh_theta
-ROS node for ricoh theta
+ROS node for ricoh theta v0.1
 
 ## Overview
 ![theta viewer](http://uploda.cc/img/img5508c9546bd7f.png)
